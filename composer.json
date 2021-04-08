@@ -1,12 +1,12 @@
 {
-    "name": "kjmtrue/vietnam-zone",
+    "name": "nguyenquang2302/vietnam-zone",
     "description": "VietNam Zone",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "KimTrien",
-            "email": "kimtrien@gmail.com"
+            "name": "DQ",
+            "email": "ndquang0202@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Kjmtrue\\VietnamZone\\": "src/"
+            "nguyenquang2302\\VietnamZone\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Kjmtrue\\VietnamZone\\ServiceProvider"
+                "nguyenquang2302\\VietnamZone\\ServiceProvider"
             ]
         }
     }
