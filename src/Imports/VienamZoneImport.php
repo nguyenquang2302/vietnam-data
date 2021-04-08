@@ -1,6 +1,6 @@
 <?php
 
-namespace Kjmtrue\VietnamZone\Imports;
+namespace nguyenquang2302\VietnamZone\Imports;
 
 use Illuminate\Support\Facades\DB;
 use Maatwebsite\Excel\Concerns\SkipsOnFailure;

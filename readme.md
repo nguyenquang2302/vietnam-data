@@ -9,13 +9,13 @@ Dữ liệu được lấy trực tiếp từ Tổng Cục Thống Kê Việt Na
 ## Cài đặt
 
 ```shell
-composer require kjmtrue/vietnam-zone
+composer require nguyenquang2302/vietnam-zone
 ```
 
 #### Copy file config và migration
 
 ```shell
-php artisan vendor:publish --provider="Kjmtrue\VietnamZone\ServiceProvider"
+php artisan vendor:publish --provider="nguyenquang2302\VietnamZone\ServiceProvider"
 ```
 
 #### Chỉnh sửa config và migration nếu bạn cần tuỳ biến cho dự án

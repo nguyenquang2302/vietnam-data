@@ -1,12 +1,12 @@
 <?php
 
-namespace Kjmtrue\VietnamZone;
+namespace nguyenquang2302\VietnamZone;
 
 use GuzzleHttp\Client;
 
 class Downloader
 {
-    const DOWNLOAD_URL = 'https://github.com/kjmtrue/vietnam-zone/raw/database/vietnam-zone.xls';
+    const DOWNLOAD_URL = 'https://github.com/nguyenquang2302/vietnam-zone/raw/database/vietnam-zone.xls';
 
     /**
      * Download database VietNam Zone

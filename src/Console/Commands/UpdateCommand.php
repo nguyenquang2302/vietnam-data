@@ -1,6 +1,6 @@
 <?php
 
-namespace Kjmtrue\VietnamZone\Console\Commands;
+namespace nguyenquang2302\VietnamZone\Console\Commands;
 
 use Illuminate\Console\Command;
 

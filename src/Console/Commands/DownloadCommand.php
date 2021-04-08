@@ -1,11 +1,11 @@
 <?php
 
-namespace Kjmtrue\VietnamZone\Console\Commands;
+namespace nguyenquang2302\VietnamZone\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
-use Kjmtrue\VietnamZone\Downloader;
-use Kjmtrue\VietnamZone\Imports\VienamZoneImport;
+use nguyenquang2302\VietnamZone\Downloader;
+use nguyenquang2302\VietnamZone\Imports\VienamZoneImport;
 use Maatwebsite\Excel\Facades\Excel;
 
 class DownloadCommand extends Command

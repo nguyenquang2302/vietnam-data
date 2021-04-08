@@ -1,9 +1,9 @@
 <?php
 
-namespace Kjmtrue\VietnamZone;
+namespace nguyenquang2302\VietnamZone;
 
-use Kjmtrue\VietnamZone\Console\Commands\DownloadCommand;
-use Kjmtrue\VietnamZone\Console\Commands\UpdateCommand;
+use nguyenquang2302\VietnamZone\Console\Commands\DownloadCommand;
+use nguyenquang2302\VietnamZone\Console\Commands\UpdateCommand;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
